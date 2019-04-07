@@ -1,4 +1,4 @@
-package com.example.suyichen.observer;
+package com.example.suyichen.observer.demo1;
 
 /**
  * @author suyichen

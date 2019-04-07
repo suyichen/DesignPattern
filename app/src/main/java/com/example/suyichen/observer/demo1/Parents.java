@@ -1,4 +1,4 @@
-package com.example.suyichen.observer;
+package com.example.suyichen.observer.demo1;
 
 import java.util.Observable;
 import java.util.Observer;
