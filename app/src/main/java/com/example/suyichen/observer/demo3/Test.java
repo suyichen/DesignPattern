@@ -21,10 +21,6 @@ public class Test {
         list.add(observer3);
 
         SubjectExample subject = new SubjectExample(list);
-//
-//        subject.registerObserver(observer1);
-//        subject.registerObserver(observer2);
-//        subject.registerObserver(observer3);
 
         subject.setMessage("It's sunny today");
         subject.notifyData();
