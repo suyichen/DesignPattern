@@ -6,7 +6,7 @@ import java.util.Observer;
 /**
  * @author suyichen
  */
-public class Parents implements Observer {
+public class  Parents implements Observer {
 
     @Override
     public void update(Observable o, Object arg) {

@@ -12,4 +12,5 @@ public class Child extends Observable {
         setChanged();
         notifyObservers(str);
     }
+
 }
